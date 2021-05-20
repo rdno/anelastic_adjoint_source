@@ -1,0 +1,3 @@
+obspy==1.2.2
+-e git+git://github.com/rdno/pyadjoint@anelastic_devel#egg=pyadjoint
+seaborn==0.11.1
